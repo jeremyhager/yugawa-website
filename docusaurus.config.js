@@ -16,7 +16,7 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: '/',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -38,11 +38,11 @@ module.exports = {
           items: [
             {
               label: 'Internal.Virtnet Overview',
-              to: 'docs/',
+              to: '/',
             },
             {
               label: 'Linux Sysadmin Guide',
-              to: 'docs/nixadmin-guide/',
+              to: '/nixadmin-guide/',
             },
           ],
         },
@@ -52,10 +52,10 @@ module.exports = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
-    algolia: {
-      apiKey: '3fa5d79fce9c1cbfb74356f8c12edbc8',
-      indexName: 'yugawa-website',
-    },
+    // algolia: {
+    //   apiKey: '3fa5d79fce9c1cbfb74356f8c12edbc8',
+    //   indexName: 'yugawa-website',
+    // },
   },
   presets: [
     [

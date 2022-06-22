@@ -50,13 +50,13 @@ module.exports = {
             },
           ],
         },
-        {
-          type: 'category',
-          label: 'Containers',
-          items: [
+        // {
+        //   type: 'category',
+        //   label: 'Containers',
+        //   items: [
 
-          ],
-        },
+        //   ],
+        // },
       ],
     },
     {
