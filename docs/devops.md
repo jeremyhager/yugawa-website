@@ -6,4 +6,4 @@ sidebar_label: DevOps Guide
 :::info
 Used to double-check my skills. Source: https://github.com/kamranahmedse/developer-roadmap
 :::
-![img](/img/devops.png)
+![img](https://roadmap.sh/roadmaps/devops.png)
